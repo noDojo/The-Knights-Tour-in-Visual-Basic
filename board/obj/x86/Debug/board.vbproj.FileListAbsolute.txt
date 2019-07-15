@@ -1,0 +1,34 @@
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\bin\Debug\board.exe
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\bin\Debug\board.pdb
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\bin\Debug\board.xml
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\board.Form1.resources
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\board.Resources.resources
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\board.exe
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\board.xml
+C:\Users\strmybrn\AppData\Local\Temporary Projects\board\obj\x86\Debug\board.pdb
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\board.exe
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\board.xml
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\board.pdb
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\bin\Debug\board.exe
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\bin\Debug\board.pdb
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\bin\Debug\board.xml
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\board.Form1.resources
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\board.Resources.resources
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\strmybrn\documents\visual studio 2010\Projects\board\board\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C++ Programs\board\board\obj\x86\Debug\board.exe
+D:\C++ Programs\board\board\obj\x86\Debug\board.xml
+D:\C++ Programs\board\board\obj\x86\Debug\board.pdb
+D:\C++ Programs\board\board\bin\Debug\board.exe
+D:\C++ Programs\board\board\bin\Debug\board.pdb
+D:\C++ Programs\board\board\bin\Debug\board.xml
+D:\C++ Programs\board\board\obj\x86\Debug\board.Form1.resources
+D:\C++ Programs\board\board\obj\x86\Debug\board.Resources.resources
+D:\C++ Programs\board\board\obj\x86\Debug\board.vbproj.GenerateResource.Cache
+C:\Users\strmybrn\Documents\Current Resume\Program Portfolio\KnightsTour\board\obj\x86\Debug\board.exe
+C:\Users\strmybrn\Documents\Current Resume\Program Portfolio\KnightsTour\board\obj\x86\Debug\board.xml
+C:\Users\strmybrn\Documents\Current Resume\Program Portfolio\KnightsTour\board\obj\x86\Debug\board.pdb
